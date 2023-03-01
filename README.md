@@ -1,5 +1,5 @@
 # memes
-[preview](glistening-semifreddo-4e2b4c)
+[preview](https://glistening-semifreddo-4e2b4c.netlify.app)
 ![screenshot](/public/images/Screen%20Shot%202023-03-01%20at%2015.26.32.png)
 ![screeshot](/public//images/Screen%20Shot%202023-03-01%20at%2015.28.03.png)
 ![screeshot](/public/images/Screen%20Shot%202023-03-01%20at%2015.28.37.png)
