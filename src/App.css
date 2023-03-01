@@ -1,5 +1,11 @@
 .App {
   width: 100vw;
+  text-align: center;
+}
+
+.App p {
+  font-size: 5rem;
+  font-weight: 800;
 }
 
 .meme-wrapper {

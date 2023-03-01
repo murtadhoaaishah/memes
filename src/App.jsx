@@ -19,7 +19,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Memes</h1>
+      <p>Memes</p>
       {
         memes.length === 0
           ? 'Your request will be processed shortly ...'
